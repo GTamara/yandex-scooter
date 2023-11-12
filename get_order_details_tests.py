@@ -1,3 +1,5 @@
+# Тамара Гудкова 10-я когорта. Финальный проект. Инженер по тестированию +
+
 import datetime
 import test_data as data
 import api_functions as apiFunctions
